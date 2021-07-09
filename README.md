@@ -11,7 +11,7 @@ I am currently working at CMIT Solutions of Boston | Cambridge as a help desk en
 - CrusaderPlugin -- A custom multifunction plugin for the CrusaderCraft Minecraft server. 
 
 ## Contact Information
-**Email:** thetrueevo@gmail.com
+**Email:** thetrueevo@gmail.com  
 **Discord:** Evo_F#0001
 
 <!--
