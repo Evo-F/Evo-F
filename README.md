@@ -1,6 +1,6 @@
 # About Me
-Hi there! I recently graduated from the College of the Holy Cross with a degree in computer science with a minor in philosophy. 
-I am currently working at **CMIT Solutions of Boston | Cambridge** as a help desk engineer. My ultimate goal is to work in software development.
+Hi there! I graduated from the College of the Holy Cross with a bachelor's degree in computer science and a minor in philosophy. 
+I am currently working at **Mantra Computing** as an IT consultant. My ultimate goal is to work in software development.
 
 ## Current Projects
 - I have a few projects that are currently very early in development. 
