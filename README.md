@@ -2,9 +2,6 @@
 Hi there! I graduated from the College of the Holy Cross with a bachelor's degree in computer science and a minor in philosophy. 
 I currently work at **Mantra Computing** as an IT consultant. My ultimate goal is to work in software development.
 
-## Current Projects
-- I have a few projects that are currently very early in development. 
-
 ## Past Projects
 - IggyBot/IggyPy -- A multifunction Discord bot designed specifically for the Crusader Gaming Hub server. This bot handles user verification, high-priority announcement delivery, poll management, and other minor functions.
 - Rust Truth Table Generator -- Originally produced as a term project for a course in programming languages design and implementation, highlighting Rust. 
